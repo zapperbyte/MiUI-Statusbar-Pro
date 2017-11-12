@@ -1,0 +1,59 @@
+<resources>
+    <!-- Do not remove "\n" !!! It creates a linebreak and makes larger textblocks more readable! Use it in your translation as well -->
+    <!-- Do not remove "\n" !!! It creates a linebreak and makes larger textblocks more readable! Use it in your translation as well -->
+    <!-- Do not remove "\n" !!! It creates a linebreak and makes larger textblocks more readable! Use it in your translation as well -->
+    <string name="app_name">MiUI Statusbar Pro</string>
+    <string name="check_text_checkDeviceInfo">Prüfe Geräteinformationen</string>
+    <string name="check_text_checkRootStatus">Prüfe Root Status</string>
+    <string name="check_text_rootDenied">Root Zugriff verweigert!</string>
+    <string name="check_text_deviceNotSupported">Deine Firmware wird nicht unterstützt!</string>
+    <string name="check_alertRootDenied_message">"Dein Gerät ist nicht gerootet oder der Root-Zugriff wurde verweigert!\nBitte aktiviere Root-Zugriff auf deinem Gerät um diese App zu benutzen."</string>
+    <string name="check_alertDeviceNotSupported_message">"Diese App ist nur mit MIUI oder MIUI-basierten Firmwares kompatibel. Bitte besuche www.zapperbyte.com für weitere Informationen."</string>
+    <string name="check_alertDeviceNotSupported_visitSite">"Webseite öffnen"</string>
+    <string name="check_alertSdcardPermissionDenied_title">"Zugriff verweigert!"</string>
+    <string name="check_alertSdcardPermissionDenied_message">"Bitte erlaube MiUI Statusbar Pro Daten auf dem externen Speicher abzulegen."</string>
+    <string name="info_desc_currentDesign">Aktuelles Design</string>
+    <string name="info_value_currentDesignNotSupported">"Nicht unterstützt!"</string>
+    <string name="info_desc_selectedDesign">Ausgewähltes Design</string>
+    <string name="main_alertNeedUpdate_title">Update verfügbar</string>
+    <string name="main_alertNeedUpdate_download">Herunterladen</string>
+    <string name="main_alertNeedUpdate_ignore">Ignorieren</string>
+    <string name="main_alertNeedUpdate_message">"Es ist eine neuere Version von MiUI Statusbar Pro verfügbar!\nEs wird empfohlen immer die aktuellste Version zu nutzen, um von Bugfixes und neuen Features zu profitieren.\n\nNeue Version: "</string>
+    <!-- Please keep the strings for Backup and Restore in english, larger strings can cause problems with button size -->
+	<string name="main_buttonRestore">Restore</string>
+    <string name="main_buttonBackup">Backup</string>
+    <string name="main_buttonActivateDesign">Design aktivieren</string>
+    <string name="main_alertLayoutNotSupportedTitle">Design nicht unterstützt</string>
+    <string name="main_alertLayoutNotSupportedMessage">"\nMiUI Statusbar Pro konnte keine unterstützte MiuiSystemUI.apk auf deinem System finden. Bitte aktualisiere deine MIUI Version und benutze keine anderen Modifikationen, die das Design der Statusleiste verändern!\n\nDu kannst deine aktuelle MiuiSystemUI.apk auf unsere Server hochladen - Unsere bots werden deine Datei automatisiert verarbeiten und ein Mod-Version Update bereitstellen, das mit deiner MIUI Version kompatibel ist."</string>
+    <string name="main_alertLayoutNotSupportedUpload">Hochladen</string>
+    <string name="main_alertLayoutNotSupportedCancel">Abbrechen</string>
+    <string name="main_alertBackupMessage">"\nBitte wähle einen Namen um die MiuiSystemUI.apk zu sichern, die das aktuelle Design deiner Statusleiste enthält. Bestehende Dateien werden überschrieben!\n"</string>
+    <string name="main_alertRestoreMessage">"\n!! WARNUNG !!\nDas Wiederherstellen von Backups anderer MIUI Versionen kann Fehler verursachen! Der Wiederherstellungsprozess wird deine aktuelle MiuiSystemUI.apk überschreiben!\n"</string>
+    <string name="main_alertRestoreWarningToastNotValid">"Wiederherstellung fehlgeschlagen - Datei korrupt!"</string>
+    <string name="main_alertRestoreNoFileMessage">"\nKeine Sicherungen gefunden!\n"</string>
+    <string name="main_toastRestoreNoFileSelected">Keine Datei ausgewählt!</string>
+    <string name="main_alertCancel">Abbrechen</string>
+    <string name="main_alertDelete">Löschen</string>
+    <string name="main_toast_backupSuccessfull">Sicherung erfolgreich!</string>
+    <string name="main_toast_backupFailed">Sicherung fehlgeschlagen!</string>
+    <string name="main_toast_restoreDeleteSuccessfull">Datei gelöscht!</string>
+    <string name="main_toast_noSdcardPermission">"Zugriff verweigert! Kein Zugriff auf externen Speicher!"</string>
+    <string name="main_toast_fileUploadStart">"Datei wird hochgeladen..."</string>
+    <string name="main_toast_fileUploadFailed">"Upload fehlgeschlagen!"</string>
+    <string name="main_toast_fileUploadOk">"Upload abgeschlossen!"</string>
+    <string name="main_modVersion_txtSmall_checkForUpdates">Drücke um nach Updates zu suchen</string>
+    <string name="main_modVersion_progress_connecting">Verbinde zum Server</string>
+    <string name="main_modVersion_progress_updateAvailable">Update verfügbar</string>
+    <string name="main_modVersion_progress_downloadingMod">Lade neue Version herunter...</string>
+    <string name="main_modVersion_progress_downloadFailed">Download fehlgeschlagen!</string>
+    <string name="main_modVersion_progress_noUpdateAvailable">Kein Update verfügbar</string>
+    <string name="main_modVersion_progress_couldNotConnect">Verbindung zum Server fehlgeschlagen!</string>
+    <string name="drawer_open">Öffne Navigationsmenü</string>
+    <string name="drawer_close">Schließe Navigationsmenü</string>
+    <string name="drawer_title">Menü</string>
+    <string name="drawer_item_about">Info</string>
+    <string name="drawer_item_shop">Shop</string>
+    <string name="drawer_item_donate">Spenden</string>
+    <string name="drawer_item_support">Support</string>
+    <string name="drawer_item_translate">Übersetzung</string>
+</resources>
