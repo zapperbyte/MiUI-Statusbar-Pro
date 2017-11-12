@@ -1,0 +1,20 @@
+
+####---# Play Store Short description
+With MiUI Statusbar Pro you can change the style of your MiUI Statusbar.
+####---# 
+
+####---#  Play Store full description
+With MiUI Statusbar Pro you can change the style of your MiUI Statusbar. Our style modifications do not require xposed framework or conflict with MiUI Themes.
+It all started with the well known "Center Clock Mod" and now you can chose between 7 different Designs!
+
+Features:
+**Creating Backups of MiuiSystemUI.apk
+**Restoring Backups of MiuiSystemUI.apk
+**Change the style of your MiUI Statusbar to 7 different Designs
+**Also working with non-Xiaomi devices running MiUI!
+**No xposed required !
+ 
+Requirements:
+**App needs Root-Access
+**Only available for MiUI Firmwares
+####---#

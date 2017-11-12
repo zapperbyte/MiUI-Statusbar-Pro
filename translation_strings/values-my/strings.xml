@@ -18,13 +18,13 @@
     <string name="main_alertNeedUpdate_title">Update available</string>
     <string name="main_alertNeedUpdate_download">Download</string>
     <string name="main_alertNeedUpdate_ignore">Ignore</string>
-    <string name="main_alertNeedUpdate_message">"A newer version of MiUI Statusbar Pro is available!\nIt is recommended to allways use the latest version containing bugfixes and new features.\n\nNew version: "</string>
+    <string name="main_alertNeedUpdate_message">"A newer version of MiUI Statusbar Pro is available!\nIt is recommended to always use the latest version containing bugfixes and new features.\n\nNew version: "</string>
     <!-- Please keep the strings for Backup and Restore in english, larger strings can cause problems with button size -->
 	<string name="main_buttonRestore">Restore</string>
     <string name="main_buttonBackup">Backup</string>
     <string name="main_buttonActivateDesign">Activate Design</string>
     <string name="main_alertLayoutNotSupportedTitle">Design not supported</string>
-    <string name="main_alertLayoutNotSupportedMessage">"\nMiUI Statusbar Pro could not find a supported MiuiSystemUI.apk on your device. Please update your MIUI Version and make sure not to use any other modifications that change the design of your statusbar!\n\nYou can upload your current MiuiSystemUI.apk to our servers - Our bots will immediately try to provide a Mod-Version Update supporting your MIUI Version."</string>
+    <string name="main_alertLayoutNotSupportedMessage">"\nMiUI Statusbar Pro could not find a supported MiuiSystemUI.apk on your device. Please update your MiUI Version and make sure not to use any other modifications that change the design of your statusbar!\n\nYou can upload your current MiuiSystemUI.apk to our servers - Our bots will immediately try to provide a Mod-Version Update supporting your MiUI Version."</string>
     <string name="main_alertLayoutNotSupportedUpload">Upload</string>
     <string name="main_alertLayoutNotSupportedCancel">Cancel</string>
     <string name="main_alertBackupMessage">"\nPlease chose a name to backup the MiuiSystemUI.apk that contains your current Statusbar Layout. Existing files will be overwritten!\n"</string>
