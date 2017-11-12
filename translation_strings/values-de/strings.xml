@@ -20,7 +20,7 @@
     <string name="main_alertNeedUpdate_ignore">Ignorieren</string>
     <string name="main_alertNeedUpdate_message">"Es ist eine neuere Version von MiUI Statusbar Pro verfügbar!\nEs wird empfohlen immer die aktuellste Version zu nutzen, um von Bugfixes und neuen Features zu profitieren.\n\nNeue Version: "</string>
     <!-- Please keep the strings for Backup and Restore in english, larger strings can cause problems with button size -->
-	<string name="main_buttonRestore">Restore</string>
+    <string name="main_buttonRestore">Restore</string>
     <string name="main_buttonBackup">Backup</string>
     <string name="main_buttonActivateDesign">Design aktivieren</string>
     <string name="main_alertLayoutNotSupportedTitle">Design nicht unterstützt</string>
