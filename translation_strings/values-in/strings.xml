@@ -51,7 +51,7 @@
     <string name="drawer_close">Tutup laci navigasi</string>
     <string name="drawer_title">Menu</string>
     <string name="drawer_item_about">Tentang</string>
-    <string name="drawer_item_shop">Toko</string>
+    <string name="drawer_item_shop">Toko </string>
     <string name="drawer_item_donate">Donasi</string>
     <string name="drawer_item_support">Dukungan</string>
     <string name="drawer_item_translate">Terjemah</string>
