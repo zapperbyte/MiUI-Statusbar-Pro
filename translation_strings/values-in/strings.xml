@@ -1,0 +1,59 @@
+<resources>
+    <!-- Do not remove "\n" !!! It creates a linebreak and makes larger textblocks more readable! Use it in your translation as well -->
+    <!-- Do not remove "\n" !!! It creates a linebreak and makes larger textblocks more readable! Use it in your translation as well -->
+    <!-- Do not remove "\n" !!! It creates a linebreak and makes larger textblocks more readable! Use it in your translation as well -->
+    <string name="check_text_checkDeviceInfo">Memeriksa Info Perangkat...</string>
+    <string name="check_text_checkRootStatus">Memeriksa status root...</string>
+    <string name="check_text_rootDenied">Akses root ditolak!</string>
+    <string name="check_text_deviceNotSupported">Firmware anda tidak didukung!</string>
+    <string name="check_alertRootDenied_message">"Perangkat Anda belum memiliki akses Root atau akses root ditolak!\nHarap aktifkan akses root pada perangkat Anda agar dapat menggunakan aplikasi ini."</string>
+    <string name="check_alertDeviceNotSupported_message">"Aplikasi ini hanya kompatibel dengan Firmware MiUI atau ROM kustom berbasis MiUI. Silakan kunjungi www.zapperbyte.com untuk informasi lebih lanjut."</string>
+    <string name="check_alertDeviceNotSupported_visitSite">"Kunjungi Situs"</string>
+    <string name="check_alertSdcardPermissionDenied_title">"Izin ditolak!"</string>
+    <string name="check_alertSdcardPermissionDenied_message">"Berikan akses perizinan MiUI Statusbar Pro untuk mengkases data ke penyimpanan external."</string>
+    <string name="info_desc_currentDesign">Desain saat ini</string>
+    <string name="info_value_currentDesignNotSupported">"Tidak didukung!"</string>
+    <string name="info_desc_selectedDesign">Desain terpilih</string>
+    <string name="main_alertNeedUpdate_title">Pembaruan tersedia</string>
+    <string name="main_alertNeedUpdate_download">Unduh</string>
+    <string name="main_alertNeedUpdate_ignore">Abaikan</string>
+    <string name="main_alertNeedUpdate_message">"Versi MiUI Statusbar Pro yang lebih baru tersedia!\nDianjurkan untuk selalu menggunakan versi terbaru yang berisi perbaikan bug dan fitur baru.\n\nVersi baru: "</string>
+    <!-- Please keep the strings for Backup and Restore in english, larger strings can cause problems with button size -->	
+    <string name="main_buttonRestore">Pulihkan</string>
+    <string name="main_buttonBackup">Cadangkan</string>
+    <string name="main_buttonActivateDesign">Aktifkan desain</string>
+    <string name="main_alertLayoutNotSupportedTitle">Desain tidak didukung!</string>
+    <string name="main_alertLayoutNotSupportedMessage">"\nMiUI Statusbar Pro tidak dapat menemukan MiuiSystemUI.apk yang didukung pada perangkat Anda. Silakan update Versi MIUI Anda dan pastikan untuk tidak menggunakan modifikasi lain yang mengubah desain statusbar Anda!\n\nAnda dapat mengunggah MiuiSystemUI.apk Anda saat ini ke server kami - bot kami akan segera mencoba memberikan Update Versi Mod yang mendukung Versi MIUI Anda."</string>
+    <string name="main_alertLayoutNotSupportedUpload">Unggah</string>
+    <string name="main_alertLayoutNotSupportedCancel">Batal</string>
+    <string name="main_alertBackupMessage">"\nSilakan pilih nama untuk mencadangkan MiuiSystemUI.apk yang berisi Layout Statusbar Anda saat ini. File yang sudah ada akan ditimpa!.\n"</string>
+    <string name="main_alertRestoreMessage">"\n!! PERINGATAN !!\nJangan mengembalikan backup dari versi MIUI yang berbeda! Proses pemulihan akan menimpa MiuiSystemUI.apk Anda saat ini!\n"</string>
+    <string name="main_alertRestoreWarningToastNotValid">"Tidak dapat memulihkan cadangan - File rusak!"</string>
+    <string name="main_alertRestoreNoFileMessage">"\nTidak Ditemukan File Cadangan!\n"</string>
+    <string name="main_toastRestoreNoFileSelected">Tidak ada berkas yang dipilih</string>
+    <string name="main_alertCancel">Batal</string>
+    <string name="main_alertDelete">Hapus</string>
+    <string name="main_toast_backupSuccessfull">Pencadangan berhasil!</string>
+    <string name="main_toast_backupFailed">Pencadangan gagal!</string>
+    <string name="main_toast_restoreDeleteSuccessfull">Berkas berhasil dihapus!</string>
+    <string name="main_toast_noSdcardPermission">"Izin ditolak! Tidak bisa menulis di penyimpanan eksternal!"</string>
+    <string name="main_toast_fileUploadStart">"Mengunggah berkas..."</string>
+    <string name="main_toast_fileUploadFailed">"Pengunggahan berkas gagal!"</string>
+    <string name="main_toast_fileUploadOk">"Pengunggahan selesai!"</string>
+    <string name="main_modVersion_txtSmall_checkForUpdates">Tekan untuk memeriksa pembaruan</string>
+    <string name="main_modVersion_progress_connecting">Connecting to Server</string>
+    <string name="main_modVersion_progress_updateAvailable">Pembaruan tersedia</string>
+    <string name="main_modVersion_progress_downloadingMod">Mengunduh versi terbaru...</string>
+    <string name="main_modVersion_progress_downloadFailed">Pengunduhan gagal!</string>
+    <string name="main_modVersion_progress_noUpdateAvailable">Tidak ada pembaruan yang tersedia</string>
+    <string name="main_modVersion_progress_couldNotConnect">Tidak bisa terhubung ke server!</string>
+    <string name="drawer_open">Buka laci navigasi</string>
+    <string name="drawer_close">Tutup laci navigasi</string>
+    <string name="drawer_title">Menu</string>
+    <string name="drawer_item_about">Tentang</string>
+    <string name="drawer_item_shop">Toko</string>
+    <string name="drawer_item_donate">Donasi</string>
+    <string name="drawer_item_support">Dukungan</string>
+    <string name="drawer_item_translate">Terjemah</string>
+    <string name="search_menu_title">Cari</string>
+</resources>
